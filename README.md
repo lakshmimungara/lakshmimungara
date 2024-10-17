@@ -34,12 +34,10 @@ Here’s what’s in my tech toolkit:
 - **Python**   
 
 #### ☁️ **DevOps & Cloud Tools**:
-- **Docker** 🐳  
-- **Kubernetes**  
+- **Docker** 🐳   
 - **Ansible**  
 - **Terraform**  
 - **AWS** (EC2, S3, RDS)  
-- **Jenkins**  
 - **Linux** (RHEL)
 
 ### 💡 <span style="color: #F4511E;">What’s Next?</span>
