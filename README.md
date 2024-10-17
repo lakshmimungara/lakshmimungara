@@ -53,3 +53,5 @@ Here’s what’s in my tech toolkit:
 ### 📫 <span style="color: #FF7043;">Let's Connect!</span>
 
 Feel free to reach out through any of the platforms above. Let’s collaborate and explore new technologies together! 😊
+
+<img src="https://www.rontar.com/blog/wp-content/uploads/2024/03/10-professional-ways-to-say-thank-you-for-the-information-in-an-email.jpg" style="width: 50%; max-width: 800px;">
